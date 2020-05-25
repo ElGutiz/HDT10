@@ -12,10 +12,6 @@ public class Controlador {
         private Nodo[][] Adyacente;
         private int[][] next;
 
-        public Controlador() {
-
-        }
-
         public void hallarDistancia(List<Nodo> grafo, String origen, String destino){
             int aristas = 0;
             int contador = 0;

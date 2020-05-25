@@ -1,3 +1,11 @@
+/**
+ * Hoja de Trabajo 10
+ * Algoritmos y Estructuras de Datos
+ * Sección: 20
+ * Autor:
+ Jose Gutierrez, 19111
+ */
+
 public class Edge {
         private Nodo origen;
         private Nodo destino;
